@@ -1,6 +1,6 @@
 # cybersecurity_intrusion_detection
 
-##Result
+## Result
 
 Starting IREP Algorithm...
 
